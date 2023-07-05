@@ -52,5 +52,5 @@ Got familiar with building full stack application, tried out styled-components a
 
 ## Demo
 
-Insert gif or link to demo 
+link: https://mern-jobify-tsez.onrender.com
 
